@@ -11,11 +11,11 @@ const config = {
     v4: true,
   },
 
-  url: 'https://AntivirusMelagne.github.io', // ton GitHub Pages
-  baseUrl: '/TechTchoumDocumentation/',
+  url: 'https://github.com/Rolyx/TechTchoumDoc', // ton GitHub Pages
+  baseUrl: '/TechTchoumDoc/',
 
-  organizationName: 'AntivirusMelagne', // ✅ juste ton pseudo GitHub
-  projectName: 'TechTchoumDocumentation', // ✅ ton repo
+  organizationName: 'Rolyx', // ✅ juste ton pseudo GitHub
+  projectName: 'TechTchoumDoc', // ✅ ton repo
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/AntivirusMelagne/TechTchoumDocumentation/tree/main/',
+          editUrl: 'https://github.com/Rolyx/TechTchoumDoc/tree/main/',
         },
         blog: false,
         theme: {
@@ -57,7 +57,7 @@ const config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/AntivirusMelagne/TechTchoumDocumentation',
+          href: 'https://github.com/Rolyx/TechTchoumDoc',
           label: 'GitHub',
           position: 'right',
         },
@@ -93,7 +93,7 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/AntivirusMelagne/',
+              href: 'https://github.com/Rolyx/TechTchoumDoc/',
             },
           ],
         },
