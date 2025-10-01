@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://github.com/Rolyx/TechTchoumDoc', // ton GitHub Pages
+  url: 'https://Rolyx.github.io', // ton GitHub Pages
   baseUrl: '/TechTchoumDoc/',
 
   organizationName: 'Rolyx', // ✅ juste ton pseudo GitHub
