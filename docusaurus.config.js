@@ -11,8 +11,9 @@ const config = {
     v4: true,
   },
 
-  url: 'https://Rolyx.github.io', // ton GitHub Pages
-  baseUrl: '/TechTchoumDoc/',
+  // ✅ Domaine personnalisé
+  url: 'https://developers.thetchoum.com',
+  baseUrl: '/',
 
   organizationName: 'Rolyx', // ✅ juste ton pseudo GitHub
   projectName: 'TechTchoumDoc', // ✅ ton repo
