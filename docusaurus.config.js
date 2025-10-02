@@ -12,7 +12,7 @@ const config = {
   },
 
   // ✅ Domaine personnalisé
-  url: 'https://developers.thetchoum.com',
+  url: 'http://develo.thetchoum.com/',
   baseUrl: '/',
 
   organizationName: 'Rolyx', // ✅ juste ton pseudo GitHub
