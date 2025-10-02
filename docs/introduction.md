@@ -16,3 +16,7 @@ Il combine le meilleur de React avec des fonctionnalités avancées comme le ren
 - Node.js >= 18.x
 - Connaissance de base en **JavaScript** et **React**
 - Un éditeur de code (VS Code recommandé)
+
+1
+3
+4
